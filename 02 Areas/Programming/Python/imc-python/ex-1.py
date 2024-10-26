@@ -37,3 +37,5 @@ else:
     print(f"No such number exists between 1 and 150000.")
 
 print("gicu suge")
+print("gicu linge")
+# testing updates
