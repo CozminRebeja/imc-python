@@ -35,3 +35,5 @@ if result != -1:
     print(f"The smallest x between 1 and 150000 such that 2x, 3x, 4x, 5x contain the same digits is: {result}")
 else:
     print(f"No such number exists between 1 and 150000.")
+
+print("gicu suge")
